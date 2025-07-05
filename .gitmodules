@@ -1,0 +1,3 @@
+[submodule "doc"]
+	path = doc
+	url = https://github.com/hhh500/common-docs.git
